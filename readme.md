@@ -1,6 +1,8 @@
 # Problem Statement : Default Prediction using SVM
 
-![webpage](/static/webpage.jpg?raw=True "Title")
+#![webpage](/static/webpage.jpg?raw=True "Title")
+<img src="/static/webpage.jpg" alt="Webpage Screenshot">
+
 
 # create conda enviroment
 > conda create --name deployment python=3.6
